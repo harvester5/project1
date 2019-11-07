@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:43245518
+NODE:I LEVEL:0 LINE:2 "C:\cvavreval\inc\mega8515.h"
+NODE:I LEVEL:0 LINE:12 "C:\cvavreval\inc\ds1820.h"
+NODE:I LEVEL:0 LINE:13 "C:\cvavreval\inc\alcd.h"
+NODE:M LEVEL:0 LINE:15 "MAX_DEVICES"
+NODE:V LEVEL:0 LINE:16 "rom_codes -> RAM:????"
+NODE:M LEVEL:0 LINE:17 "xtal"
+NODE:F LEVEL:0 LINE:19 "main(void)"

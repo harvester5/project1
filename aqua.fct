@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"aqua.c" LINE:215
+ds1820_temperature_10 DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"C:\Compil\CodeVision\lib\ds1820.lib" LINE:43
+ds1820_read_spd DSTACK_USAGE:6 DSTACK_LEVEL:8 FILE:"C:\Compil\CodeVision\lib\ds1820.lib" LINE:29
+ds1820_select DSTACK_USAGE:3 DSTACK_LEVEL:11 FILE:"C:\Compil\CodeVision\lib\ds1820.lib" LINE:13

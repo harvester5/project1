@@ -1,0 +1,35 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+__ds1820_scratch_pad                                              0x01D9       9
+dinner                                                            0x01E2       1
+xtemp                                                             0x01E3       1
+duration                                                          0x01E4       1
+rom_codes                                                         0x01E5       9
+outstr                                                            0x01EE      10
+outstr2                                                           0x01F8       2
+soff                                                              0x01FA       6
+set_hour_on                                                       0x0200      14
+_seed                                                             0x020E       4
+_base_y                                                           0x0212       4
+_lcd_x                                                            0x0216       1
+_lcd_y                                                            0x0217       1
+_lcd_maxx                                                         0x0218       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+ee_temp                                                           0x0000       2
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+Xp                                                                R4,R5        2
+chip                                                              R7           1
+_hour                                                             R6           1
+_min                                                              R9           1
+_sec                                                              R8           1
+light_on                                                          R11          1
+light_off                                                         R10          1
+air_on                                                            R13          1
+air_off                                                           R12          1
